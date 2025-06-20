@@ -1,12 +1,12 @@
 # Exploring Customer Feedback for Strategic Insights on Amazon Review Dataset.
 
-# Authors: 
+# Authors  
 Mousumy Kundu  
 Aditi Das  
 **Hayley Baek**
 
 # Description
-This project explores the Amazon review dataset([https://amazon-reviews-2023.github.io/](https://amazon-reviews-2023.github.io/)).
+This project explores the Amazon review dataset found here: ([https://amazon-reviews-2023.github.io/](https://amazon-reviews-2023.github.io/)).
 
 # Tasks
 Our primary objective is to analyze products based on customer reviews and overall popularity. This analysis is divided into three key subcategories:
